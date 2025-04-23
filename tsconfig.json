@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      "module": "node16",
+      "esModuleInterop": true,
+      "moduleResolution": "node16"
+    }
+  }
